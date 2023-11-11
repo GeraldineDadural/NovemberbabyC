@@ -1,0 +1,9 @@
+body{
+    overflow: hidden;
+}
+#cake{
+    position: absolute;
+    height: 90%;
+    width: 50%;
+
+}
